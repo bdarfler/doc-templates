@@ -1,22 +1,22 @@
 # Decision Template
 
-**Due Date:** *@date*
+**Due Date:** *date*
 
 **Driver(s):** *These humans (the fewer the better) drive the decision process*
 
-*
+- 
 
 **Contributors:** *These humans are consulted for their opinions, expertise, or unique perspectives*
 
-*
+- 
 
 **Approver(s):** *These humans (the fewer the better) approve the decision*
 
-- [ ]
+- [ ] 
 
 **Informed:** *These humans are informed once there is a decision, plan for how you will let them know*
 
-*
+- 
 
 ## Problem
 
@@ -28,10 +28,10 @@
 
 |	|Option A	|Option B	|Option C	|
 |---	|---	|---	|---	|
-|Description	|	|	|	|
-|Benefits	|	|	|	|
-|Risks	|	|	|	|
-|Mitigations	|	|	|	|
+|Description | |	|	|
+|Benefits |	|	|	|
+|Risks | |	|	|
+|Mitigations |	|	|	|
 
 ## Recommendation
 
