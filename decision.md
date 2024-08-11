@@ -1,5 +1,7 @@
 # Decision Template
 
+**Status:** *<draft|in review|decided>*
+
 **Due Date:** *date*
 
 **Driver(s):** *These humans (the fewer the better) drive the decision process*
